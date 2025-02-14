@@ -1,0 +1,4 @@
+site_name: My Docs
+site_url: https://lgloege.github.io/example-page
+theme:
+  name: material
