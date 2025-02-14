@@ -1,4 +1,8 @@
 site_name: My Docs
 site_url: https://lgloege.github.io/example-page
+repo_name: lgloege/example-page
+repo_url: https://github.com/lgloege/example-page
+
 theme:
   name: material
+
